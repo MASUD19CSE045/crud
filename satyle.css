@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Lato", sans-serif;
+}
+
+.container{
+  
+  width: 60%;
+  margin: 0 auto;
+  margin-top: 0;
+}
+.abc{
+  font-size: 16px;
+  font-style: italic;
+}
+
+
+tbody tr td{
+  padding-left: 20px;
+  padding-right: 10px;
+  
+
+}
+input{
+  
+  padding: 5px;
+  border: 1px solid;
+  border-radius: 5px;
+}
+table{
+  margin-bottom: 20px;
+  border: 1px solid ;
+  border-radius: 5px;
+  padding: 30px;
+} 
+
+button{
+  margin: 5px;
+  border-radius: 5px;
+  border: 1px solid rgb(20, 20, 20);
+  
+}
+button a{
+  padding: 10px;
+  text-decoration: none;
+  font-style: italic;
+  font-size: 15px;
+  color: rgb(10, 10, 10);
+
+
+}
+.nav{
+  background-color: green;
+}
+.nav h2{
+  color: wheat;
+  text-align: center;
+  font-size: 50px;
+}
+
+thead th{
+  font-style: italic;
+  color: rgb(5, 3, 1);
+  background-color: rgb(42, 165, 65);
+  padding: 5px;
+  margin: 5px;
+}
+
+.form{
+  margin-top: 20px;
+}
+ h2{
+  font-style:italic ;
+  font-size: 40px;
+  
+}
+/* .title{
+  background-color: green;
+
+} */
